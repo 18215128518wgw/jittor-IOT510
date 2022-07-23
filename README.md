@@ -1,0 +1,8 @@
+# jittor-IOT510
+
+python==3.7.9
+jittor==1.3.3
+cuda==11.3
+
+
+
